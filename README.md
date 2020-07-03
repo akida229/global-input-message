@@ -2,7 +2,7 @@
 
 ## global-input-message
 
-This is a JavaScript library for web and device applications to have mobile integration without developing a separate mobile app. If you already have a mobile app, you need to include the [Global Input App](https://globalinput.co.uk/) component. Then, this library allows your applications running on various devices to interoperate with user's mobile devices.
+This is a JavaScript library for web and device applications to have mobile integration without developing a separate mobile app. If you already have a mobile app, you need to include the [Global Input App](https://globalinput.co.uk/) component. Then, this library allows your applications running on various devices to interoperate with user's mobile device.
 
 The simple addition allows your applications instantly have [Mobile Encryption ](https://globalinput.co.uk/global-input-app/mobile-content-encryption), [Mobile Authentication ](https://globalinput.co.uk/global-input-app/mobile-authentication), [Mobile Content Transfer ](https://globalinput.co.uk/global-input-app/mobile-content-transfer), [Mobile Input & Control ](https://globalinput.co.uk/global-input-app/mobile-input-control), [Second Screen Experience](https://globalinput.co.uk/global-input-app/second-screen-experience) and [Mobile Personal Storage](https://globalinput.co.uk/global-input-app/mobile-personal-storage) features
  
